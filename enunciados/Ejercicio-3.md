@@ -28,8 +28,7 @@
           zone: internal
           state: enable
     ```
-2. Definir un playbbok donde se pida al usuario el entorno de despliegue para cargar las variables del fichero correspondiente al entorno. 
-
+2. Definir un playbbok donde se pida al usuario el entorno(``dev``,``pre``,``pro``) de despliegue para cargar las variables del fichero correspondiente al entorno. 
 
 
 3. Siguiendo la documentación de ansible obtener estos valores de un nuestro máquina local como de un nodo: `os family` , `hostname` y `ipv4`
@@ -39,4 +38,4 @@
 
 
 
-5. Crea un fact personalizado que te permita obtener la variable `db_user_name` del nodo administrado. (Si no existe crear la variable)
+5. Crea un fact personalizado que te permita obtener la variables del nodo remoto.
