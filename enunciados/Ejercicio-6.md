@@ -1,4 +1,4 @@
-# Ejercicios bucles
+# Ejercicios bucles 2
 
 1. Crear una lista ``web_service`` que contenga los elementos: ``httpd`` y ``vsftpd`` y crear una tarea que pregunte si el servicio está iniciado, recorriendo esos elementos con un bucle.
 

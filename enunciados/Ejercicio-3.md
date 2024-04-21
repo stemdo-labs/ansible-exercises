@@ -1,4 +1,4 @@
-## Variables y facts
+# Variables y facts
 
 
 1. Parametrizar todos los valores posibles con cierto sentido mediante un fichero de variables.
