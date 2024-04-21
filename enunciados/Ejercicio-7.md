@@ -1,3 +1,5 @@
+# Condicionales
+
 1. Partiendo de este playbook, y aunque ya sabemos que no se haría de esta manera, gestionar los posibles errores si no tenemos alguna
 de las distribuciones. (no busco condicionales, sino bloques, etc)
 
